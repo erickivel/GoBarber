@@ -1,7 +1,7 @@
 
 <h1 align="center">
-    <img align="center" src="./__assets__/logo.svg" alt="GoBarber" width="50%"/></br></br>
-    <img align="center" src="./__assets__/goStack.png" alt="GoStack" width="35%"/></br></br>
+    <img align="center" src="./__assets__/logo.svg" alt="GoBarber" width="30%"/></br></br>
+    <img align="center" src="./__assets__/goStack.png" alt="GoStack" width="25%"/></br></br>
     Node JS | ReactJS | React Native
 </h1>
 
