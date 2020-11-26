@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#question-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -38,7 +38,7 @@ An application to connect barbers with their customers through appointments. Thi
 The app was built during the "Bootcamp GoStack | RocketSeat ".
 
 
-## :gear: Features
+## :gear: Technologies
 </br>
 ⌨️ <strong>Typescript</strong> —> Extends JavaScript by adding types;</br> 
 ⚙️ <strong>NodeJS</strong> —> A platform for building network applications;</br>
